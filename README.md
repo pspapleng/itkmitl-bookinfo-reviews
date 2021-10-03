@@ -1,7 +1,7 @@
 ## How to run with Docker
 
 ```bash
-# Build Docker Image for review service
+# Build Docker Image for reviews service
 docker build -t reviews .
 
 # Run reviews service on port 8082
